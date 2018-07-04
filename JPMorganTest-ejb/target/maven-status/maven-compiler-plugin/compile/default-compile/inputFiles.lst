@@ -1,0 +1,12 @@
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/messages/MessageProcessor.java
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/config/AppConfig.java
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/messages/Message.java
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/types/ProductType.java
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/ejb/NewSessionBean.java
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/sales/Sale.java
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/messages/MessageQueue.java
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/messages/XMLReport.java
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/sales/SalesHandler.java
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/messages/IReport.java
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/xml/XMLDocumentHandler.java
+/DATA/Projects/JPMorganTest-pom/JPMorganTest-ejb/src/main/java/uk/jeesoft/jpmorgantest/domain/ProductsSold.java
